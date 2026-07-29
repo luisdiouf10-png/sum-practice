@@ -1,0 +1,37 @@
+            body{
+                background-color: #4d000a;
+            }
+            h1{
+                background-color: white; color: black; 
+                font-family: Arial, Helvetica;
+                font-style: italic;
+                text-align: center;
+            }
+            p{
+                background-color: black; 
+                color: azure; 
+                font-family: sans-serif;
+                font-style: italic;
+                font-size: 20px;
+            }
+            dl{
+                background-color: black;
+                color: #4d000a;
+            }
+            .loves-me{
+                color: crimson;
+            }
+            .loves-me-not{
+                color: white;
+            }
+            .cool-image:hover{
+                transform: scale(1.1);
+            }
+            .specialp1{
+                color: #261014;
+                background-color: rgb(240, 240, 240);
+            }
+            .specialp2{
+                background-color: rgb(33, 4, 10);
+                color: white;
+            }
